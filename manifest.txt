@@ -1,0 +1,5 @@
+Premain-Class: dev.primer.PrimerAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Implementation-Title: Primer
+Implementation-Version: 1.0.0

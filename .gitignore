@@ -1,0 +1,13 @@
+# Ephemeral build: downloaded JDK + compiled classes (recreated by build.ps1)
+.build/
+
+# Build output — distribute via GitHub Releases, don't commit
+*.jar
+
+# Editor / IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+claude.md
